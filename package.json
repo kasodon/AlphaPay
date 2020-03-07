@@ -1,0 +1,33 @@
+{
+  "name": "ncehr.org",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "10.x"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/morning-sea-88753.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "edewor onyedika",
+  "license": "ISC",
+  "homepage": "https://morning-sea-88753.herokuapp.com/",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ejs": "^3.0.1",
+    "express": "^4.15.2",
+    "nodemailer": "^6.4.3",
+    "nodemailer-mailgun-transport": "^2.0.0",
+    "path": "^0.12.7"
+  }
+}
