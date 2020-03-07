@@ -1,5 +1,5 @@
 {
-  "name": "ncehr.org",
+  "name": "AlphaPay",
   "version": "1.0.0",
   "description": "",
   "engines": {
@@ -12,16 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.heroku.com/morning-sea-88753.git"
+    "url": ""
   },
   "keywords": [
     "node",
-    "heroku",
     "express"
   ],
   "author": "edewor onyedika",
   "license": "ISC",
-  "homepage": "https://morning-sea-88753.herokuapp.com/",
+  "homepage": "",
   "dependencies": {
     "axios": "^0.19.2",
     "ejs": "^3.0.1",
